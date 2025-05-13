@@ -36,13 +36,7 @@ A simple, elegant, and responsive **Weather App** built with **React** and **Axi
 
 - Node.js >= 14.x
 - npm or yarn
-🧑‍💻 Contributing
-Got ideas or found bugs? Contributions are welcome!
-Feel free to open an issue or submit a pull request.
 
-✉️ Contact
-Created by DipakAec
-📫 pauldipakkr@gmail.com (replace with your actual contact if desired)
 
 ### Setup
 
@@ -57,3 +51,11 @@ npm install
 # Start development server
 npm start
 
+## Contribution
+🧑‍💻 Contributing
+Got ideas or found bugs? Contributions are welcome!
+Feel free to open an issue or submit a pull request.
+
+✉️ Contact
+Created by DipakAec
+📫 pauldipakkr@gmail.com (replace with your actual contact if desired)
