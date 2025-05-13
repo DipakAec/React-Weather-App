@@ -9,24 +9,22 @@ A simple, elegant, and responsive **Weather App** built with **React** and **Axi
 
 ## 🌟 Features
 
-- 🔍 **Search by City or Pin Code**
-- 🌡️ **Real-Time Weather Data**
-- ☀️ **Current Temperature & Conditions**
-- 💧 **Humidity, Wind Speed, and More**
-- 🌈 **Clean & Responsive UI**
-- 🔁 **Instant Updates Without Reloading**
+- 🔍 Search by **City Name** or **Pin Code**
+- 🌡️ Real-Time **Weather Data**
+- ☀️ Display of **Temperature**, **Conditions**, etc.
+- 💧 Includes **Humidity**, **Wind Speed**, and more
+- 📱 **Responsive UI** across all devices
+- 🔁 Instant updates without page reloads
 
 ---
 
 ## 🚀 Tech Stack
 
-| Technology        | Description                      |
-|-------------------|----------------------------------|
-| **React**         | Frontend UI Library              |
-| **Axios**         | HTTP client for API requests     |
-| **OpenWeather API** | Source for real-time weather data |
-| **CSS**           | Basic responsive styling         |
-| **Vercel**        | Deployment platform              |
+- **React** – Frontend library for building UI  
+- **Axios** – For fetching data from APIs  
+- **OpenWeather API** – Source of weather data  
+- **CSS** – Responsive and clean styling  
+- **Vercel** – For fast deployment  
 
 ---
 
@@ -36,7 +34,6 @@ A simple, elegant, and responsive **Weather App** built with **React** and **Axi
 
 - Node.js >= 14.x
 - npm or yarn
-
 
 ### Setup
 
@@ -50,12 +47,3 @@ npm install
 
 # Start development server
 npm start
----
-## Contribution
-🧑‍💻 Contributing
-Got ideas or found bugs? Contributions are welcome!
-Feel free to open an issue or submit a pull request.
-
-✉️ Contact
-Created by DipakAec
-📫 pauldipakkr@gmail.com (replace with your actual contact if desired)
