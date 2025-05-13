@@ -50,7 +50,7 @@ npm install
 
 # Start development server
 npm start
-
+---
 ## Contribution
 🧑‍💻 Contributing
 Got ideas or found bugs? Contributions are welcome!
